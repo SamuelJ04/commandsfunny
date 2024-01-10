@@ -1,0 +1,10 @@
+name: commandsfunny
+version: '${project.version}'
+main: com.samueljvinson.commandsfunny.Commandsfunny
+api-version: '1.20'
+
+
+commands:
+  sus:
+    aliases: [ suscommand ]
+    description: "Gives you 12 dark oak boats."
